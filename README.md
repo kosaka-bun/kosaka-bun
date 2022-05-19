@@ -1,5 +1,5 @@
 ## Hi there. 👋
-A normal developer, such as you are seeing.<br />
+A normal developer, such as you see.<br />
 Hope to be able to create brilliant works.
 
 ### Languages
