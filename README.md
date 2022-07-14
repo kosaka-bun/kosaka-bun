@@ -25,7 +25,7 @@ Hope to be able to create brilliant works.
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-gray?style=flat-square&logo=Android%20Studio)
 ![Rider](https://img.shields.io/badge/Rider-gray?style=flat-square&logo=Rider)<br />
 ![Windows](https://img.shields.io/badge/Windows-gray?style=flat-square&logo=Windows)
-![CentOS](https://img.shields.io/badge/CentOS-gray?style=flat-square&logo=CentOS)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=flat-square&logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=Docker)
 ![Chrome](https://img.shields.io/badge/Chrome-gray?style=flat-square&logo=Google%20Chrome)
 
