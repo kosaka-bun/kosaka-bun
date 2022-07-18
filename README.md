@@ -36,8 +36,3 @@ Hope to be able to create brilliant works.
   <img src="https://github-readme-stats.vercel.app/api?username=kosaka-bun&show_icons=true" alt="Kosaka Bun's GitHub Stats" />
 </span>
 <br /><br />
-
-![](https://badges.pufler.dev/visits/kosaka-bun/kosaka-bun?style=flat-square&logo=github)
-![](https://badges.pufler.dev/years/kosaka-bun?style=flat-square&logo=github)
-![](https://badges.pufler.dev/repos/kosaka-bun?style=flat-square&logo=github)
-![](https://badges.pufler.dev/commits/monthly/kosaka-bun?style=flat-square&logo=github)
