@@ -7,7 +7,7 @@ Hope to be able to create brilliant works.
 ![Java](./files/img/Java-gray.svg)
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=flat-square&logo=Kotlin)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=JavaScript)
-![C-Sharp](https://img.shields.io/badge/C%23-gray?style=flat-square&logo=C%20Sharp)
+![C-Sharp](https://img.shields.io/badge/C%23-gray?style=flat-square&logo=C%23)
 
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosaka-bun&layout=compact" alt="Top Langs" />
