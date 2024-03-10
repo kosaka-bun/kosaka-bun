@@ -34,7 +34,7 @@ Hope to be able to create brilliant works.
 ### GitHub Stats
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=kosaka-bun&show_icons=true" alt="Kosaka Bun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kosaka-bun&show_icons=true&include_all_commits=true" alt="Kosaka Bun's GitHub Stats" />
 </span>
 <br /><br />
 
