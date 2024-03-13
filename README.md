@@ -40,6 +40,5 @@ Hope to be able to create brilliant works.
 
 ![](https://badges.strrl.dev/visits/kosaka-bun/kosaka-bun?style=flat-square&logo=github)
 ![](https://badges.strrl.dev/years/kosaka-bun?style=flat-square&logo=github)
-![](https://badges.strrl.dev/repos/kosaka-bun?style=flat-square&logo=github)<br />
-![](https://badges.strrl.dev/commits/all/kosaka-bun?style=flat-square&logo=github)
+![](https://badges.strrl.dev/repos/kosaka-bun?style=flat-square&logo=github)
 ![](https://badges.strrl.dev/contributions/all/kosaka-bun?style=flat-square&logo=github)
