@@ -18,18 +18,14 @@ Hope to be able to create brilliant works.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=flat-square&logo=Spring)
 ![Vue](https://img.shields.io/badge/Vue.js-gray?style=flat-square&logo=Vue.js)
 
-
 ### IDEs and Environments
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-gray?style=flat-square&logo=IntelliJ%20IDEA)
-![VS Code](https://img.shields.io/badge/VS%20Code-gray?style=flat-square&logo=Visual%20Studio%20Code)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-gray?style=flat-square&logo=Android%20Studio)
 ![Rider](https://img.shields.io/badge/Rider-gray?style=flat-square&logo=Rider)<br />
-![Windows](https://img.shields.io/badge/Windows-gray?style=flat-square&logo=Windows)
 ![Android](https://img.shields.io/badge/Android-gray?style=flat-square&logo=Android)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=flat-square&logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=Docker)
 ![Chrome](https://img.shields.io/badge/Chrome-gray?style=flat-square&logo=Google%20Chrome)
-
 
 ### GitHub Stats
 
