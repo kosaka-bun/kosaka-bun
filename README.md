@@ -10,7 +10,7 @@ Hope to be able to create brilliant works.
 ![C-Sharp](https://img.shields.io/badge/C%23-gray?style=flat-square&logo=.NET)
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosaka-bun&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api/top-langs/?username=kosaka-bun&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Top Langs" />
 </span>
 
 ### Frameworks
@@ -30,7 +30,7 @@ Hope to be able to create brilliant works.
 ### GitHub Stats
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=kosaka-bun&show_icons=true&include_all_commits=true" alt="Kosaka Bun's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=kosaka-bun&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Kosaka Bun's GitHub Stats" />
 </span>
 <br /><br />
 
